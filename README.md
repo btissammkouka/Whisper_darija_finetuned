@@ -17,7 +17,7 @@ The project utilizes two primary datasets from Hugging Face:
 
 1. **Training:** [atlasia/DODa-audio-dataset](https://huggingface.co/datasets/atlasia/DODa-audio-dataset)  
    * Filtered to ensure valid audio and non-empty Latin transcriptions (darija\_Latn).  
-2. **Testing/Evaluation:** [Snousnou/Moroccan-Darija-ASR](https://www.google.com/search?q=https://huggingface.co/datasets/Snousnou/Moroccan-Darija-ASR)
+2. **Testing/Evaluation:** [Snousnou/Moroccan-Darija-ASR](https://www.google.com/search?q=https://huggingface.co/datasets/Snousnou/Moroccan-Darija-ASR)  & [atlasia/DODa-audio-dataset](https://huggingface.co/datasets/atlasia/DODa-audio-dataset)
 
 ## **🛠️ Installation & Dependencies**
 
